@@ -1,5 +1,5 @@
 
-the Bonding Curve DEX Contract Works
+<h1>the Bonding Curve DEX Contract Works<h1/>
 The DEX starts with a certain amount of STX (the main cryptocurrency on the Stacks blockchain) and a certain number of tokens.
 
 When someone wants to buy tokens, they send STX to the DEX. The DEX then gives them a certain number of tokens based on a formula in the code.
