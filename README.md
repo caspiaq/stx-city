@@ -11,7 +11,7 @@
 
 <p>Once the DEX has reached a certain amount of STX (the "STX_TARGET_AMOUNT"), the DEX will automatically "complete" the bonding curve. This means that the DEX will burn (or destroy) any remaining tokens and send the remaining STX to a special address called the "VELAR_ADDRESS."
 
-<h2>The bonding curve DEX uses the simple formula like a normal AMM DEX: k = x * y </h2>
+The bonding curve DEX uses the simple formula like a normal AMM DEX: k = x * y 
 
 
 <h3>Test steps</h3>
