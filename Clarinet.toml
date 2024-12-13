@@ -6,6 +6,16 @@ telemetry = false
 cache_dir = './.cache'
 
 [[project.requirements]]
+[contracts.mbot]
+path = 'contracts/mbot.clar'
+clarity_version = 3
+epoch = 3.0
+
+[contracts.mbot-trait]
+path = 'contracts/mbot-trait.clar'
+clarity_version = 3
+epoch = 3.0
+
 [contracts.pump-token]
 path = 'contracts/pump-token.clar'
 clarity_version = 3
